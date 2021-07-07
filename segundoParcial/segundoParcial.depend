@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1625668018 source:c:\users\cris\documents\cosasfacu\segundoparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"algo.h"
+	"LinkedList.h"
+
+1625668526 source:c:\users\cris\documents\cosasfacu\segundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"algo.h"
+	"LinkedList.h"
+	"controller.h"
+	"parser.h"
+
+1625668011 source:c:\users\cris\documents\cosasfacu\segundoparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"algo.h"
+
+1625665931 source:c:\users\cris\documents\cosasfacu\segundoparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625661443 c:\users\cris\documents\cosasfacu\segundoparcial\linkedlist.h
+
+1625668965 c:\users\cris\documents\cosasfacu\segundoparcial\algo.h
+	"LinkedList.h"
+
+1625658032 c:\users\cris\documents\cosasfacu\segundoparcial\controller.h
+
+1625660526 c:\users\cris\documents\cosasfacu\segundoparcial\parser.h
+	"LinkedList.h"
+
+1625668965 source:c:\users\cris\documents\cosasfacu\segundoparcial\algo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"algo.h"
+	"LinkedList.h"
+
+1625668297 source:c:\users\cris\documents\cosasfacu\segundoparcial\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

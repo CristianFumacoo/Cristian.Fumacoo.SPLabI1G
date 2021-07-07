@@ -1,0 +1,29 @@
+id,pais,dosis1,dosis2,sinVacunar
+1,Poland,19,16,65
+2,Philippines,17,2,81
+3,Albania,21,28,51
+5,China,4,33,63
+7,Sweden,18,7,75
+13,Czech Republic,2,19,79
+14,Russia,12,30,58
+18,Dominica,27,11,62
+24,Poland,31,18,51
+29,Nigeria,5,10,85
+32,Portugal,7,39,54
+43,Yemen,10,31,59
+46,Serbia,29,11,60
+55,Belize,9,30,61
+56,Thailand,3,16,81
+59,Uruguay,36,9,55
+60,Ecuador,9,8,83
+63,Hungary,39,7,54
+65,New Zealand,1,18,81
+68,Ireland,37,10,53
+73,Afghanistan,2,2,96
+76,Myanmar,8,32,60
+84,Japan,27,17,56
+86,Senegal,13,24,63
+88,Mexico,20,15,65
+91,Chile,21,12,67
+97,Spain,24,21,55
+98,Guatemala,7,23,70

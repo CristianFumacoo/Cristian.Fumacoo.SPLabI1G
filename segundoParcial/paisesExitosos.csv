@@ -1,0 +1,15 @@
+id,pais,dosis1,dosis2,sinVacunar
+5,China,4,33,63
+14,Russia,12,30,58
+20,Uganda,20,34,46
+32,Portugal,7,39,54
+36,Greece,17,38,45
+43,Yemen,10,31,59
+47,Norway,36,31,33
+48,Argentina,38,32,30
+53,Jordan,53,38,9
+54,Netherlands,48,30,22
+55,Belize,9,30,61
+67,Paraguay,43,32,25
+70,Bolivia,29,31,40
+76,Myanmar,8,32,60
